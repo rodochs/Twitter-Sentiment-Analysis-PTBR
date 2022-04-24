@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Twitter-PT
 
-Dataset usado: https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
+Dataset: "NoThemeTweets.csv" from https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
 
 ## Referências
 
