@@ -2,7 +2,7 @@
 
 Dataset: "NoThemeTweets.csv" from https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
 
-## Referências
+## References
 
 LeIA:
 - https://github.com/rafjaa/LeIA
