@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Twitter-PT
+# Twitter-Sentiment-Analysis-PTBR
 
 Dataset: "NoThemeTweets.csv" from https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
 
