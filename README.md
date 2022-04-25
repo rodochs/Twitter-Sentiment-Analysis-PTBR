@@ -4,6 +4,8 @@ Dataset: "NoThemeTweets.csv" from https://www.kaggle.com/augustop/portuguese-twe
 
 ## References
 
+- https://github.com/rafaelgreca/Sentiment-Analysis-Twitter-PT
+
 LeIA:
 - https://github.com/rafjaa/LeIA
 
